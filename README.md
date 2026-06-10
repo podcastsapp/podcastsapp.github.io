@@ -9,4 +9,9 @@ If you would like to delete your **Podcasts.** account and associated data, plea
    - App reviews
 3. Data will be removed within **7 days** of your request.
 
+**Data Collection & Usage**
+
+By creating an account, you agree that we may collect information such as your email address and username. This data may be used to send you occasional marketing communications, developer updates, and announcements regarding future software releases and updates. You can opt out of these communications at any time.
+
+
 Thank you for using **Podcasts.**
